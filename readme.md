@@ -8,3 +8,10 @@ Now the family has four new members – Thin, Light, Book, and Regular – added
 The new weights stay true to the style and grace of Bebas with the familiar clean lines, elegant shapes, a blend of technical straightforwardness and simple warmth which make it uniformly proper for web, print, commerce and art.
 
 Originally designed by Ryoichi Tsunekawa, [Flat-It Type Foundry.](https://www.fontspring.com/foundry/flat-it)
+
+## Install
+
+#### [Bower](http://bower.io/search/?q=toastr)
+```
+bower install bebasneue-webfont
+```
