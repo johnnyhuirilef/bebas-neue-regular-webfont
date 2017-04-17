@@ -11,7 +11,7 @@ Originally designed by Ryoichi Tsunekawa, [Flat-It Type Foundry.](https://www.fo
 
 ## Install
 
-#### [Bower](http://bower.io/search/?q=toastr)
+#### [Bower](http://bower.io/search/?q=bebasneue-webfont)
 ```
 bower install bebasneue-webfont
 ```
